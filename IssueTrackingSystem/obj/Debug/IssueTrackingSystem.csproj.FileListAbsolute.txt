@@ -1,0 +1,14 @@
+C:\Users\Sowmya\Documents\Visual Studio 2010\Projects\IssueTrackingSystem\IssueTrackingSystem\bin\IssueTrackingSystem.dll
+C:\Users\Sowmya\Documents\Visual Studio 2010\Projects\IssueTrackingSystem\IssueTrackingSystem\bin\IssueTrackingSystem.pdb
+C:\Users\Sowmya\Documents\Visual Studio 2010\Projects\IssueTrackingSystem\IssueTrackingSystem\obj\Debug\IssueTrackingSystem.dll
+C:\Users\Sowmya\Documents\Visual Studio 2010\Projects\IssueTrackingSystem\IssueTrackingSystem\obj\Debug\IssueTrackingSystem.pdb
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\IssueTrackingSystem\IssueTrackingSystem\obj\Debug\IssueTrackingSystem.csprojResolveAssemblyReference.cache
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\IssueTrackingSystem\IssueTrackingSystem\obj\Debug\IssueTrackingSystem.dll
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\IssueTrackingSystem\IssueTrackingSystem\bin\IssueTrackingSystem.dll
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\IssueTrackingSystem\IssueTrackingSystem\bin\IssueTrackingSystem.pdb
+C:\Users\chakrapani\Documents\Visual Studio 2010\Projects\IssueTrackingSystem\IssueTrackingSystem\obj\Debug\IssueTrackingSystem.pdb
+C:\Users\chakrapani\Documents\c#_training\IssueTrackingSystem\IssueTrackingSystem\bin\IssueTrackingSystem.dll
+C:\Users\chakrapani\Documents\c#_training\IssueTrackingSystem\IssueTrackingSystem\bin\IssueTrackingSystem.pdb
+C:\Users\chakrapani\Documents\c#_training\IssueTrackingSystem\IssueTrackingSystem\obj\Debug\IssueTrackingSystem.csprojResolveAssemblyReference.cache
+C:\Users\chakrapani\Documents\c#_training\IssueTrackingSystem\IssueTrackingSystem\obj\Debug\IssueTrackingSystem.dll
+C:\Users\chakrapani\Documents\c#_training\IssueTrackingSystem\IssueTrackingSystem\obj\Debug\IssueTrackingSystem.pdb

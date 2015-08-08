@@ -1,0 +1,7 @@
+Standalone application is also a desktop application whic does not need internet. 
+Whereas web application is a browser based application.
+The other type of application is mobile application.
+.NET framework is based on oops. It has built-in classes and functions whihc can e used to build standalone,web as well as mobile application. Encapsulation of data into a unit is called class.
+Allowing only certain data to be accessable to outside world using public modifier is called abstraction.
+
+

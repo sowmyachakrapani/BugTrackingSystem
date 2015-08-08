@@ -1,0 +1,12 @@
+Asynchronous Javascript and xml.
+
+instead of sending the complete page contents only the required data is sent to the server and the answer is got back. This is asynchronous transfer and is called partial 
+page rendering.
+
+AJAX = [Javascript + xml]  
+
+html components are not controlled by c# so it wont have runat=server by default.
+This is mainly used by html designers.
+If mainly javascript uses the control better to use the html controls as against a standard control.
+
+javascript runs at the client side so it cannot access server resources like it cannot access database this will lead to data insecurity

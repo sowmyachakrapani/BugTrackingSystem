@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="IssueTracking.master.cs" Inherits="IssueTrackingSystem.IssueTracking" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : OpenSpace 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140131
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+ <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+</head>
+<body>
+<form id="form1" runat="server">
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href="#">OpenSpace</a></h1>
+		</div>
+		<div id="menu">
+			<ul>
+				<li class="active"><a href="LoginPage.aspx" accesskey="1" title="">HomePage</a></li>
+		        <li><a href="#" accesskey="4" title="">Tester HomePage</a></li>
+                <li><a href="ContactUs.aspx" accesskey="4" title="">Contact Us</a></li>
+				
+			</ul>
+		</div>
+	</div>
+</div>
+<div id="wrapper">
+	<div id="staff" class="container">
+		
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+               
+        </asp:ContentPlaceHolder>
+	<div id="page" class="container">
+		<div class="boxA">
+			
+		</div>
+		<div class="boxB">
+			
+		</div>
+		<div class="boxC">
+			
+		</div>
+	</div>
+</div>
+<div id="welcome-wrapper">
+	<div id="welcome" class="container">
+		<div class="title">
+			
+		</div>
+		
+	</div>
+</div>
+<div id="copyright" class="container">
+	
+</div>
+</form>
+</body>
+</html>
+
+

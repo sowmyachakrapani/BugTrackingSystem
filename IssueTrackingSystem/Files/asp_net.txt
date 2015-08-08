@@ -1,0 +1,52 @@
+Introduction to ASP.NETbrowser application can run locally , on intranet as well as on internet.
+Active server pages for .NET.
+Wwe need to buy domain name like sowmyamukund.com from netfirms.com as well as webspace where we can store our dlls and stuff.
+This is generally bought for a year.
+once we buy a domain name which means its registered and reserved for a year.
+.net is a acronym it does not have an  expansion.
+.net framewprk is summation of mobile applications,windows applications maybe thats why it is a called a net(in the sense of net total).
+IIS is the server used with ASP.NET.
+ADS: Application development server is used when server and client is all present in a single system.
+IIS is used when the server is a different machine and several clients are there across the internet.
+active server pages because the page is at the server/compiled at the server and sent to the client browser.
+login.aspx contains the ui(design)
+login.aspx.cs contains the event handler.
+.csproj -->contains info about the proj.
+.sln stores info about projects when opened with notepad we can see it.If opened with msvisualstudio we get the entire solution.
+htmltemplates.com
+
+framework(set of namespaces)
+
+4.0 visual studio 2010
+4.5 visual studion 2012
+linq features, stored procedures ,entity framework are there in 2012.
+
+stored procedures : where pgm is written in database and stored and executed from the client.
+
+web->asp.net empty web application
+
+
+solution explorer->add item->web form
+select page->browse with->select the browser here->set as default (if you want it to run in this browser always).
+always copy the image into the project folder dont just give absolute path it may not run in other machines.
+f5 moves the control from one breakpoint to the other.
+when there are many pages we need to right click on a page and select 'set as start page'.
+if we want to control a hyperlink based on c# code based on a logic then asp.net should be used else plain html hyperlink is enough.
+type text selc hyperlick(globe button on right hand top corner)
+place a hyperlink from the left list(toolbox) on the screen then right click on it and select view code and write the logic in page_load.
+www.google.co.in/search?q=mysore+dinner+best+places----> q is the query string.
+
+page_load is a event which gets executed as soon as the page is loaded
+if we have to write the content of a notepad to a page then we need to use the response buit-in object to write.
+This built-in object has diff functions.One among them is Response.Write("specify the text to write on screen")
+copy the file in a folder called resources.
+file.readalltext(Server.MapPath("resources/
+content.replace("wicket",
+
+<p id="txt" runat="Server"></p> --->written in source
+in page_load write txt.innertext = "messge sent". 
+
+txt
+
+9471A1 
+0862A1

@@ -1,0 +1,21 @@
+State Management:
+  Here the data specific to a person is shown using state management.
+Suppose there is a situation where data stored in one page needs to be used in other pages then we use sessions where we store this data in the server which can be retrieved in the other pages.
+
+e.g bank sites where we login in one page but we can see the all the related data in the other pages.
+
+We can store certain data at the client side itself which is achieved through cookies.
+
+How long cookies should stay in the machine is decided by the site developers like we get 'keep me signed in' in some websites.
+
+Data inside the session is stored as a object so we need to typecast it to the appropriate type while retrieving its value.
+
+Session["arr"]
+Session["val"]
+Here there is one session and 2 entries
+
+
+
+
+
+

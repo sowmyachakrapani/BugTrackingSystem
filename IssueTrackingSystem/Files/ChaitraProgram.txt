@@ -1,0 +1,70 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Collections;
+
+namespace ConsoleApplication2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ArrayList list = new ArrayList();
+            while (true)
+            {
+                Console.WriteLine("1. Login");
+                Console.WriteLine("2. Find");
+                Console.WriteLine("3.List out usrs");
+                Console.WriteLine("4.Exit");
+                Console.WriteLine();
+                int ch = int.Parse(Console.ReadLine());
+                string rec="";
+                switch (ch)
+                {
+                    case 1:
+                        Console.WriteLine("Enter username to connect");
+                        string usr = Console.ReadLine();
+                        rec = string.Format("{0} ,{1}", usr, DateTime.Now);
+                        if (list.Contains(rec))
+                        {
+                            Console.WriteLine("Already user exists with same name , please try different name");
+                        }
+                        else
+                        {
+                           
+                            list.Add(rec);
+                        }
+                        break;
+                       
+                    case 2:
+                        Console.WriteLine("Enter username to find");
+                        usr= Console.ReadLine();
+                        for (int i = 0; i < list.Count ; i++)
+                        {
+                            string [] col = list[i].ToString().Split(',');
+
+                            
+                            if (col[0].Contains(usr))
+                            {
+                                Console.WriteLine("logged IN time {0}",col[1]);
+                            }
+                            
+                        }
+                            break;
+                        
+                    case 3: 
+                            Console.WriteLine("list of users");
+                            for (int i = 0; i < list.Count; i++)
+                            {
+                                Console.WriteLine(list[i]);
+                            }
+                            break;
+
+                    case 4:
+                        return;
+                }
+            }
+        }
+    }
+}
