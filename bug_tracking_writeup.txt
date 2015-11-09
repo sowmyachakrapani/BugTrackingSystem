@@ -1,4 +1,4 @@
-7vu!67can7_M7U6
+
 
 As a pilot project of introducing c#,.NET develeoped a centralized bug tracking system with modules for Managers,developers and testers. Managers could add employees,assign tasks to developers/testers and add the requisite material for them to download.
 Through this system the developers/testers knew their tasks,could fix/test issues and it provided a discussion forum to include topics and to comment on them.
