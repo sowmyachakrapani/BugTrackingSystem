@@ -17,3 +17,7 @@
 <h6>To be accomplished</h6>
 
 * Provision for video conferencing.
+
+<img src="https://github.com/DeekshaPrabhakar/SwiftRottenTomatoes/blob/master/swiftRottenTomatoes1.gif" alt=HomePage" />
+ 
+
