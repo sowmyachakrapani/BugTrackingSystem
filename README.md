@@ -18,6 +18,6 @@
 
 * Provision for video conferencing.
 
-<img src="https://github.com/DeekshaPrabhakar/SwiftRottenTomatoes/blob/master/swiftRottenTomatoes1.gif" alt=HomePage" />
+<img src="https://github.com/sowmyachakrapani/BugTrackingSystem/blob/master/Homepage.gif" alt=HomePage" />
  
 
