@@ -2,6 +2,12 @@
 
 <p>This is a Project developed in asp.net, c#, javascript  for Task management </p>
 
+<h3>Walkthrough</h3>
+
+<img src="https://github.com/sowmyachakrapani/BugTrackingSystem/blob/master/Homepage.gif" alt=HomePage" />
+
+GIF created using <a href="http://www.cockos.com/licecap/">Licecap</a>.
+
 <h4>User stories</h4>
 
 <h6>Required</h6>
@@ -17,7 +23,4 @@
 <h6>To be accomplished</h6>
 
 * Provision for video conferencing.
-
-<img src="https://github.com/sowmyachakrapani/BugTrackingSystem/blob/master/Homepage.gif" alt=HomePage" />
- 
 
